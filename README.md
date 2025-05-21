@@ -3,10 +3,15 @@
   <a href="https://www.linkedin.com/in/amor-key-85929a202/" target="_blank">Cybersecurity Professional</a>
 </h1>
 
-<h2>👨‍💻 Home Lab Project:</h2>
+<h2>Home Lab Project:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<ul>
+  <li>
+    <a href="https://github.com/amorkey/HomeLab/blob/main/README.md" target="_blank">
+      <b>SOC Analyst Home Lab: Ubuntu & Kali Linux</b>
+    </a>
+  </li>
+</ul>
 
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/amor-key-85929a202/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
